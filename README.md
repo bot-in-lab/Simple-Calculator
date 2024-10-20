@@ -52,10 +52,6 @@ The calculator's interface consists of:
 
 Contributions are welcome! If you'd like to add more features or improve the code, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 This project is perfect for beginners to learn about GUI applications in Python and serves as a base for building more advanced calculators.
