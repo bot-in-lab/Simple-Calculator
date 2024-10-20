@@ -29,17 +29,17 @@ The calculator's interface consists of:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/calculator-tkinter.git
+   git clone https://github.com/bot-in-lab/Simple-Calculator.git
    ```
    
 2. **Navigate to the project directory**:
    ```
-   cd calculator-tkinter
+   cd calculator
    ```
 
 3. **Run the script**:
    ```
-   python calculator.py
+   python cal.py
    ```
 
 4. The calculator window will open, and you can start performing calculations.
